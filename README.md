@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/18bd5c7e-3f45-4485-b4e8-6f0a45ca931d">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/98d51208-2332-43e9-9ffb-787597644862">
-  <img width="1237" height="734" alt="Screenshot of blog template, main page." src="https://github.com/user-attachments/assets/98d51208-2332-43e9-9ffb-787597644862">
+  <img alt="Screenshot of blog template, main page." src="https://github.com/user-attachments/assets/98d51208-2332-43e9-9ffb-787597644862">
 </picture>
 
 # astro blog template

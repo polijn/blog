@@ -4,6 +4,8 @@
   <img alt="Screenshot of blog template, main page." src="https://github.com/user-attachments/assets/98d51208-2332-43e9-9ffb-787597644862">
 </picture>
 
+[LIVE DEMO](https://flo-bit.dev/blog-template/)
+
 # astro blog template
 
 minimalistic but opinionated blog template using [astro](https://astro.build/) and [svelte](https://svelte.dev/). aims to be super easy to deploy and use, with a focus on performance and SEO, ease-of-use and design.

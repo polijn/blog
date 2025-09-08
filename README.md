@@ -1,8 +1,8 @@
-[<picture>
+<picture>
   <source width="1231" height="730" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/18bd5c7e-3f45-4485-b4e8-6f0a45ca931d">
   <source width="1237" height="756" media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/76a5ced1-e963-4259-b811-4b37381d12a1">
   <img width="1237" height="756" alt="Screenshot of blog template, main page." src="https://github.com/user-attachments/assets/76a5ced1-e963-4259-b811-4b37381d12a1">
-</picture>](https://flo-bit.dev/blog-template/)
+</picture>
 
 # astro blog template
 

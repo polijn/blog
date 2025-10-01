@@ -7,7 +7,7 @@ export const SITE = "https://polijn.github.io";
 
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
-// otherwise set to '/<your-repo-name>'
+// otherwise set to '/<your-repo-name>' 
 export const BASE = "/blog";
 
 // MORE SETTINGS:

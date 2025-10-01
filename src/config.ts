@@ -3,32 +3,32 @@ import type { AccentColor, BaseColor } from "./colors";
 // IMPORTANT SET THOSE TWO VARIABLES:
 // NUMBER ONE:
 // if deployed to github pages, set to https://<your-github-username>.github.io/
-export const SITE = "https://flo-bit.dev";
+export const SITE = "https://polijn.github.io";
 
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
 // otherwise set to '/<your-repo-name>'
-export const BASE = "/blog-template";
+export const BASE = "/blog";
 
 // MORE SETTINGS:
 
 // will be used for the the title and meta tags and in the header (if SITE_NAME is left blank)
-export const SITE_TITLE = "flo-bit's blog template";
+export const SITE_TITLE = "polijn's blog";
 
 // will be used in the meta tags (and for example shown in search results)
-export const SITE_DESCRIPTION = "Welcome to my blog template! Fork it and make it your own.";
+export const SITE_DESCRIPTION = "polijn's blog is mostly about brainfarts";
 
 // will be used as the icon in the header and the favicon
-export const SITE_FAVICON = "🙃";
+export const SITE_FAVICON = "🫠";
 
 // will be used in the footer as the name of the author (c) <YEAR> <NAME> - LICENSE
-export const NAME = "flo-bit";
+export const NAME = "polijn";
 
 // will be used in the footer as the license of the content (e.g. "All right reserved" or "CC-BY-SA 4.0")
-export const LICENSE = "MIT licensed.";
+export const LICENSE = "BSD licensed.";
 
 // will be used to identify your bluesky account, so that likes and comments can be shown on your posts
-export const BLUESKY_IDENTIFIER = "flo-bit.dev";
+export const BLUESKY_IDENTIFIER = "polijn.bsky.social";
 
 export const SOURCE_LINK = 'https://github.com/flo-bit/blog-template';
 
@@ -52,9 +52,9 @@ export const SOCIAL_LINKS: {
   SHOW_RSS?: boolean;
 } = {
   SHOW_RSS: true,
-  BLUESKY_URL: "https://bsky.app/profile/flo-bit.dev",
-  GITHUB_URL: "https://github.com/flo-bit",
-  EMAIL: "flo.bit.dev@gmail.com",
+  BLUESKY_URL: "https://bsky.app/profile/polijn.bsky.social",
+  GITHUB_URL: "https://github.com/polijn",
+  EMAIL: "nothing yet",
 };
 
 
